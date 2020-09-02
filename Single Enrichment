@@ -1,5 +1,5 @@
 FatiGO. This is the conventional enrichment test where we compare two lists of genes, usually a group of genes which are significant in a given test that are compared to the rest of the genes in the experiment, although any two groups formed in any way can be tested against each other. This approach detects significant over-representation of functional annotations in one gene set respect to the other one. The following sections provide a tutorial on how to use this tool:
-
+https://github.com/babelomics/babelomics/wiki/Preprocessing-for-RNA-Seq
 Input data
 Steps
 Interpreting the output results
